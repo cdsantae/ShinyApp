@@ -32,6 +32,3 @@ $y=-1-2x+1.5x^2-1.5x^3-0.05x^4+10^{-4}x^5+u^5$<br>
 <div align='justify'>
 In the same way you can choose the `set.seed` to randomize the process, select the size sample, and you can set the standar deviations of the variables $x\sim N(0,\sigma_{x}+2)$ and $u\sim N(0,\sigma_{u})$.
 </div>
-
-#### Want to help?
-Fork this repo and create a pull request. Please, report bugs [here](https://github.com/paternogbc/SSregression/issues).
